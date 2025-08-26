@@ -1,4 +1,4 @@
-# vApp Submission: gaming---Games-NFTs-entertainment
+# vApp Submission: Games-NFTs-entertainment
 
 ## Verification
 ```yaml
